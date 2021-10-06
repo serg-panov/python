@@ -1,0 +1,6 @@
+# Sergey Panov
+# Third exercise
+
+"""
+
+"""
